@@ -17,3 +17,4 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 - test
 - refactor
 - chore
+- revert
